@@ -17,14 +17,14 @@ Unleash your creativity with ShadowCraft, a sleek and intuitive web application 
 
 ## Key Features
 
--Customization Galore: Adjust opacity, blur, spread, color, and more to achieve the perfect shadow effect.
--Multi-Shadow Support: Easily create and manage multiple shadows for intricate designs.
--Real-Time Preview: Instantly visualize changes as you tweak settings, ensuring precise results.
--User-Friendly Interface: Intuitive controls and a minimalist design make shadow crafting a breeze.
--Accessibility: Access ShadowCraft from any device with an internet connection, no downloads required.
--Efficient Workflow: Save time with efficient tools and streamlined processes.
--Export Options: Download your shadow configurations for seamless integration into your projects.
--Open Source: ShadowCraft is openly available on GitHub, inviting collaboration and community contributions.
--Simple copy the code that adds shadow and past it to your project.
+- Customization Galore: Adjust opacity, blur, spread, color, and more to achieve the perfect shadow effect.
+- Multi-Shadow Support: Easily create and manage multiple shadows for intricate designs.
+- Real-Time Preview: Instantly visualize changes as you tweak settings, ensuring precise results.
+- User-Friendly Interface: Intuitive controls and a minimalist design make shadow crafting a breeze.
+- Accessibility: Access ShadowCraft from any device with an internet connection, no downloads required.
+- Efficient Workflow: Save time with efficient tools and streamlined processes.
+- Export Options: Download your shadow configurations for seamless integration into your projects.
+- Open Source: ShadowCraft is openly available on GitHub, inviting collaboration and community contributions.
+- Simple copy the code that adds shadow and past it to your project.
 
 
