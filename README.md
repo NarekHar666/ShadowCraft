@@ -11,7 +11,7 @@ Unleash your creativity with ShadowCraft, a sleek and intuitive web application 
 ![React](https://img.shields.io/badge/React-v16.0.0-blue)
 
 
-[Try online](https://narekhar666.github.io/ShadowCraft/build/index.html/) or clone the repository to your local machine.
+[Try online](https://narekhar666.github.io/ShadowCraft/build/index.html) or clone the repository to your local machine.
 
 ![Copy the code](img/ShadowCraft2.jpg)
 
